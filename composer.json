@@ -10,7 +10,7 @@
         "filament/filament": "^4.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
-        "syofyanzuhad/filament-zkteco-adms": "^1.2"
+        "syofyanzuhad/filament-zkteco-adms": "^2.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
