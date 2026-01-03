@@ -8051,16 +8051,16 @@
         },
         {
             "name": "syofyanzuhad/filament-zkteco-adms",
-            "version": "v2.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/syofyanzuhad/filament-zkteco-adms.git",
-                "reference": "1cc26dba67aee9bfa5d9a7bce62c7ef1eae4d5fb"
+                "reference": "31cb2d900477d5334f4936f4ed17f22ec2a4b134"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/syofyanzuhad/filament-zkteco-adms/zipball/1cc26dba67aee9bfa5d9a7bce62c7ef1eae4d5fb",
-                "reference": "1cc26dba67aee9bfa5d9a7bce62c7ef1eae4d5fb",
+                "url": "https://api.github.com/repos/syofyanzuhad/filament-zkteco-adms/zipball/31cb2d900477d5334f4936f4ed17f22ec2a4b134",
+                "reference": "31cb2d900477d5334f4936f4ed17f22ec2a4b134",
                 "shasum": ""
             },
             "require": {
@@ -8126,7 +8126,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-01-02T18:56:42+00:00"
+            "time": "2026-01-03T10:08:01+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
