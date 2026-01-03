@@ -10,6 +10,7 @@
         "filament/filament": "^4.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
+        "opcodesio/log-viewer": "^3.21",
         "syofyanzuhad/filament-zkteco-adms": "^2.0"
     },
     "require-dev": {
