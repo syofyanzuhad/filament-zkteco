@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 return new class extends Migration
 {
     /**
-     * Get the migration connection name.
+     * Get the migration connection name. test deploy
      */
     public function getConnection(): ?string
     {
